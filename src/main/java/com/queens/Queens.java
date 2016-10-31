@@ -15,7 +15,7 @@ class Queens {
     private static Set<int[]> RESULTS;
 
     /**
-     * Main method
+     * Main method to launch the boards retrieval
      */
     public static void main(String[] args) {
         RESULTS = new HashSet<>();
