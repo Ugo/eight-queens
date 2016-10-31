@@ -1,1 +1,5 @@
-/com/
+/bin/
+/.settings/
+/target/
+.classpath
+.project
